@@ -18,4 +18,5 @@
         'views/res_partner_views.xml',
         'data/membership_data.xml',
     ],
+    'installable': False,
 }
